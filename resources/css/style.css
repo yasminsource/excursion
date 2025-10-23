@@ -1,0 +1,54 @@
+* {
+    background-color: black;
+    text-align: center;
+    display: block;
+    justify-content: center;
+    font-family: Verdana, sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: normal;
+    color: white;
+}
+
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+}
+
+a {
+    color: aquamarine;
+    font-size: 1em;
+    text-decoration: underline;
+}
+
+img {
+    display: block; 
+}
+
+.caption {
+    color: gray;
+    font-size: 21px;
+}
+
+video {
+    display: block;
+    margin: auto;
+}
+img {
+    display: block;
+    align-items: center;
+    size: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-block-start: 2em;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+}
+
